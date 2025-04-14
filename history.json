@@ -1,0 +1,30 @@
+[
+    {
+        "cold": 165,
+        "hot": 5,
+        "elec": 3662,
+        "total_cost": 0,
+        "created_at": "2025-01-04"
+    },
+    {
+        "hot": 6,
+        "cold": 168,
+        "elec": 3727,
+        "total_cost": 588,
+        "created_at": "2025-02-04"
+    },
+    {
+        "hot": 8,
+        "cold": 172,
+        "elec": 3785,
+        "total_cost": 768,
+        "created_at": "2025-03-04"
+    },
+    {
+        "hot": 11,
+        "cold": 176,
+        "elec": 3876,
+        "total_cost": 1048,
+        "created_at": "2025-04-14"
+    }
+]

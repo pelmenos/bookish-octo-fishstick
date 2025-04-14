@@ -1,0 +1,3 @@
+HOT = 148
+COLD = 60
+ELEC = 4
